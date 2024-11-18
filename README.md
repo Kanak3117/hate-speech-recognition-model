@@ -2,3 +2,4 @@
 Hate Speech Recognition Model
 
 A multi-modal model that detects hate speech from both text and images on social media, using a fine-tuned transformer and OCR with PyTesseract for comprehensive analysis.
+Website Link https://sidratulmuntahausmani.pythonanywhere.com/predict
